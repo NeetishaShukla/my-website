@@ -1,9 +1,6 @@
-# my-website
+# My-website
 
-
-
-Other updates from example branch
-update readme from branch update-readme
+Hello this is my site
 
 made some edits
 
